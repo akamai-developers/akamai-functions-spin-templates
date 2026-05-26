@@ -1,0 +1,1 @@
+This template is based off of the Spin Framework [`spin-js-sdk` project template](https://github.com/spinframework/spin-js-sdk)

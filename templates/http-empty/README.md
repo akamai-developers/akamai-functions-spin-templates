@@ -1,0 +1,1 @@
+This template is based off of the Spin Framework [`spin` project templates](https://github.com/spinframework/spin/tree/main/templates)
