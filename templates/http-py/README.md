@@ -1,1 +1,0 @@
-This template is based off of the Spin Framework [`spin-python-sdk` project template](https://github.com/spinframework/spin-python-sdk)
