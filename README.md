@@ -4,9 +4,9 @@ A repository of templates for scaffolding applications that can be deployed to A
 
 ## Versioning
 
-We use `git` tags to align templates with a given Akamai Functions release.
+We use `git` tags to align templates with a given Akamai Functions WIT world version.
 
-For example, the `v1.0.0` tag aligns with the `akamai:functions/platform@1.0.0` WIT world, and so on.  This tag is referenced in the corresponding [akamai-functions environment definition](https://github.com/spinframework/spin-environments/blob/main/envs/akamai-functions/akamai-functions.toml).  Thus, when a user wishes to create a new template, they run `spin new -E akamai-functions` and the compatible templates from the `v1.0.0` tag are provided.
+For example, the `v1.0.0` tag aligns with the `akamai:functions/platform@1.0.0` WIT world, and so on.  This tag is referenced in the corresponding [akamai-functions environment definition](https://github.com/spinframework/spin-environments/blob/main/envs/akamai-functions/akamai-functions.toml).  Thus, when a user wishes to create a new template, they run `spin new -E akamai-functions` and the compatible templates are provided.
 
 ## Releasing
 
