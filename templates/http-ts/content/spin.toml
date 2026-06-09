@@ -5,6 +5,7 @@ authors = ["{{authors}}"]
 description = "{{project-description}}"
 name = "{{project-name}}"
 version = "0.1.0"
+targets = ["akamai-functions"]
 
 [[trigger.http]]
 route = "{{http-path}}"

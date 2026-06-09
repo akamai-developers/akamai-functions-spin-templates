@@ -5,3 +5,4 @@ name = "{{project-name | kebab_case}}"
 version = "0.1.0"
 authors = ["{{authors}}"]
 description = "{{project-description}}"
+targets = ["akamai-functions"]
