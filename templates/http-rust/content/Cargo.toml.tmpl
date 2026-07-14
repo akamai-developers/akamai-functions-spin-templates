@@ -11,6 +11,6 @@ crate-type = ["cdylib"]
 
 [dependencies]
 anyhow = "1"
-spin-sdk = "5.2.0"
+spin-sdk = { version = "6", default-features = false, features = ["http", "key-value", "json", "mqtt", "mysql", "pg", "postgres4-types", "redis", "variables", "export-sdk-language"] }
 
 [workspace]
